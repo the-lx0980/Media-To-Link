@@ -9,3 +9,6 @@ apscheduler
 requests
 psutil
 pyromod
+
+Flask==2.2.2
+
